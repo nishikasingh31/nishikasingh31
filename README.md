@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋 I’m **Nishika Singh**  
-### Web & ML Enthusiast | React ∙ Node.js ∙ Python  
-
-[![GitHub followers](https://img.shields.io/github/followers/nishikasingh31?label=Followers&style=social)](https://github.com/nishikasingh31?tab=followers)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishikasingh31&show_icons=true&theme=radical)](https://github.com/nishikasingh31)  
-
+### Web & ML Enthusiast | Node.js ∙ Python  
 ---
 
 ## 🎯 About Me  
