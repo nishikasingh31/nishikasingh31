@@ -24,7 +24,7 @@
    → Interactive quiz platform with multiple categories, dynamic questions, scoring system, and responsive UI.  
    → Full-stack MERN project deployed using Netlify (frontend) and Render (backend).
 
-- **[E-Commerce Web Application](#)**
+- **[E-Commerce Web Application](#)**  
    → A full-stack e-commerce platform with product listings, cart functionality, and user authentication.  
    → Built using React, Node.js, Express, and MongoDB with RESTful APIs.
 
