@@ -1,51 +1,59 @@
-
-<!--
-**nishikasingh31/nishikasingh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋 I’m **Nishika Singh**  
-### Web & ML Enthusiast | Node.js ∙ Python  
+### Full-Stack Developer | Web & ML Enthusiast | Node.js ∙ React ∙ Python  
 ---
 
 ## 🎯 About Me  
-- I’m currently building full-stack applications using React on the front end, Node.js/Express on the back end, and working with Python for machine learning/AI projects.  
-- I’ve worked on projects such as a **Handwritten Digit Classification using CNN**, and a **Multilingual Language Detection & Translation System**.  
-- I’m passionate about turning ideas into code and creating tools that people can use.  
-- Always learning and exploring: new JS frameworks, ML libraries, cloud tech, and more.
+- I’m currently building scalable full-stack applications using **React** for the front end and **Node.js/Express** for the back end.  
+- I also work with **Python** for Machine Learning and AI-based projects.  
+- I enjoy solving real-world problems by combining **software development + AI**.  
+- Always exploring: modern frameworks, cloud deployment, system design, and performance optimization.
 
 ---
 
 ## 💡 Skills & Tech Stack  
+
 | Front-End        | Back-End        | Machine Learning & AI         | Tools & Others           |
 |------------------|------------------|------------------------------|--------------------------|
-| React, HTML, CSS, JavaScript | Node.js, Express, MongoDB   | Python, Scikit-Learn, Transformers | Git, GitHub, VSCode, REST APIs |
+| React, HTML, CSS, JavaScript | Node.js, Express, MongoDB   | Python, Scikit-Learn, CNN, Transformers | Git, GitHub, VS Code, REST APIs, Postman |
 
 ---
 
-## 🔧 Selected Projects  
-- **[Handwritten-Digit-Classification-using-CNN](https://github.com/nishikasingh31/Handwritten-Digit-Classification-using-CNN)** – A deep-learning model trained on the MNIST dataset to recognise handwritten digits.  
-- **[Multilingual-Language-Detection-and-Translation-System](https://github.com/nishikasingh31/Multilingual-Language-Detection-and-Translation-System)** – NLP pipeline built with Python & transformers to detect and translate languages.  
-- **[AdventureQuest-Booking-Platform](https://github.com/nishikasingh31/AdventureQuest-Booking-Platform)** – Backend prototype for a booking platform (Node.js, Express & MongoDB) with user authentication and city-management APIs.  
-- **[Online-Quiz-API](https://github.com/nishikasingh31/Online-Quiz-API)** – Backend service built using Node.js and MongoDB for creating and managing quizzes.
+## 🚀 Selected Projects  
 
-> Check out my GitHub profile for more repositories & experiments.  
+- **[🛒 E-Commerce Web Application](#)**  
+  A full-stack e-commerce platform with product listings, cart functionality, and user authentication.  
+  Built using React, Node.js, Express, and MongoDB with RESTful APIs.
+
+- **[🧠 Online Quiz Application](#)**  
+  Interactive quiz platform with multiple categories, dynamic questions, scoring system, and responsive UI.  
+  Full-stack MERN project deployed using Netlify (frontend) and Render (backend).
+
+- **[✍️ Handwritten Digit Classification using CNN](https://github.com/nishikasingh31/Handwritten-Digit-Classification-using-CNN)**  
+  Deep learning model trained on MNIST dataset to recognize handwritten digits with high accuracy.  
+  Includes a Streamlit UI for real-time predictions.
+
+- **[🌍 Multilingual Language Detection & Translation System](https://github.com/nishikasingh31/Multilingual-Language-Detection-and-Translation-System)**  
+  NLP pipeline using Transformers to detect and translate multiple languages efficiently.
+
+- **[🏔️ AdventureQuest Booking Platform (Backend)](https://github.com/nishikasingh31/AdventureQuest-Booking-Platform)**  
+  Backend service for a booking system with authentication, city management, and API design.
+
+- **[📝 Online Quiz API](https://github.com/nishikasingh31/Online-Quiz-API)**  
+  REST API for quiz creation and management using Node.js and MongoDB.
 
 ---
 
+## 📊 What I’m Working On  
+- Enhancing full-stack apps with better UI/UX and performance  
+- Exploring advanced ML concepts and deployment  
+- Learning system design & scalable architecture  
+
+---
 
 ## 📫 Let’s Connect  
 - GitHub: [@nishikasingh31](https://github.com/nishikasingh31)  
-- LinkedIn: [@nishika-singh-as2025/](https://www.linkedin.com/in/nishika-singh-as2025/).
-  
-Thanks for stopping by! I’m always open to collaboration and new opportunities. 🚀  
+- LinkedIn: [@nishika-singh-as2025](https://www.linkedin.com/in/nishika-singh-as2025/)  
+
+---
+
+⭐ *Thanks for visiting my profile! I'm open to internships, collaborations, and exciting opportunities.* 🚀
