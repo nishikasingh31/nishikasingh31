@@ -35,7 +35,7 @@
 - **[Multilingual Language Detection & Translation System](https://github.com/nishikasingh31/Multilingual-Language-Detection-and-Translation-System)**  
    → NLP pipeline using Transformers to detect and translate multiple languages efficiently.
 
-- **[Portfolio Website](https://github.com/nishikasingh31/Portfolio-Using-React)**  
+- **[Portfolio Website](https://github.com/nishikasingh31/Portfolio)**  
    → A personal portfolio showcasing my projects, skills, and experience with a modern responsive UI.  
    → Built using React and deployed for easy access to my work and contact details.
 
