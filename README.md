@@ -19,14 +19,13 @@
 ---
 
 ## 🚀 Selected Projects  
+- **[Interview Prep AI](https://github.com/nishikasingh31/Interview-Prep-AI)**
+   → AI-powered interview practice platform that generates role-specific questions, evaluates answers, and tracks history using LLM integration.
+   → Full-stack MERN project with JWT auth, real-time streaming (SSE), and Groq/Llama API integration.
 
 - **[Online Quiz Application](https://github.com/nishikasingh31/Quiz-Application)**  
    → Interactive quiz platform with multiple categories, dynamic questions, scoring system, and responsive UI.  
    → Full-stack MERN project deployed using Netlify (frontend) and Render (backend).
-
-- **[E-Commerce Web Application](#)**  
-   → A full-stack e-commerce platform with product listings, cart functionality, and user authentication.  
-   → Built using React, Node.js, Express, and MongoDB with RESTful APIs.
 
 - **[Handwritten Digit Classification using CNN](https://github.com/nishikasingh31/Handwritten-Digit-Classification-using-CNN)**  
    → Deep learning model trained on MNIST dataset to recognize handwritten digits with high accuracy.  
@@ -35,15 +34,13 @@
 - **[Multilingual Language Detection & Translation System](https://github.com/nishikasingh31/Multilingual-Language-Detection-and-Translation-System)**  
    → NLP pipeline using Transformers to detect and translate multiple languages efficiently.
 
+- **[E-Commerce Web Application](#)**  
+   → A full-stack e-commerce platform with product listings, cart functionality, and user authentication.  
+   → Built using React, Node.js, Express, and MongoDB with RESTful APIs.
+
 - **[Portfolio Website](https://github.com/nishikasingh31/Portfolio)**  
    → A personal portfolio showcasing my projects, skills, and experience with a modern responsive UI.  
    → Built using React and deployed for easy access to my work and contact details.
-
-- **[AdventureQuest Booking Platform (Backend)](https://github.com/nishikasingh31/AdventureQuest-Booking-Platform)**  
-   → Backend service for a booking system with authentication, city management, and API design.
-
-- **[Online Quiz API](https://github.com/nishikasingh31/Online-Quiz-API)**  
-   → REST API for quiz creation and management using Node.js and MongoDB.
 
 ---
 
