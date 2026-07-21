@@ -20,8 +20,8 @@
 
 ## 🚀 Selected Projects  
 
-- **[Interview Prep AI](https://github.com/nishikasingh31/Interview-Prep-AI)**
-  → AI-powered interview practice platform that generates role-specific questions, evaluates answers, and tracks history using LLM integration.
+- **[Interview Prep AI](https://github.com/nishikasingh31/Interview-Prep-AI)** </br>
+  → AI-powered interview practice platform that generates role-specific questions, evaluates answers, and tracks history using LLM integration.</br>
   → Full-stack MERN project with JWT auth, real-time streaming (SSE), and Groq/Llama API integration.
 
 - **[Online Quiz Application](https://github.com/nishikasingh31/Quiz-Application)**  
